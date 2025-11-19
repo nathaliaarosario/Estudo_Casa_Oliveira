@@ -76,6 +76,10 @@ sua empresa. Vamos ajudá-lo. Começaremos construindo o banco de dados
 <img src="NORMALIZACAO_4.png">
 
 
+#### Diagrama de Tabelas 
+
+<img src="Diagrama_tabelas.png">
+
 
 
 ### modelo Físico
